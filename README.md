@@ -1,8 +1,11 @@
-# 🚀 Hi there, I'm [MOHAMED ELATTAR] -> Full-Stack Developer
+# 🚀 Hi there, I'm MOHAMED ELATTAR -> Full-Stack Developer
 
 <p align="left">
-I bridge the gap between elegant user interfaces and robust, scalable server-side architectures. I craft clean, responsive UIs, optimize database queries for breakfast, and chase bugs until they regret existing.
+I bridge the gap between elegant user interfaces and robust, scalable server-side architectures. I craft clean, responsive UIs, optimize database queries for breakfast, and chase bugs until they regret existing.I'm a passionate **Full-Stack Developer** dedicated to building robust server-side architectures and crafting seamless, responsive user experiences. I bridge the gap between elegant design and scalable functionality.
 </p>
+
+* 🚀 **Current Focus:** Modern frontend frameworks, scalable API design, and system performance.
+* 💡 **Approach:** Writing clean, maintainable code and solving complex technical challenges.
 
 - 🎯 **Focused path:** Frontend Master ➡️ Robust Backend APIs ➡️ System Design & DevOps.
 - 🤝 **Open to collaboration on:** Full-Stack projects or anything that involves solving real-world problems (no motivational console.logs here).
