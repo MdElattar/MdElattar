@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+* 🤝 [Portfolio](رابط_موقعك)
+* 📧 [Email](mailto:your-email@gmail.com)
 <!--
 **MdElattar/MdElattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
