@@ -9,9 +9,8 @@
 
 ### 🚀 About Me
 
-- 🎯 **Current Focus:** Modern frontend architectures, scalable API design, and system performance.
-- 💡 **Development Approach:** Writing clean, maintainable code and solving complex technical challenges with efficient solutions.
-- 🛤️ **Career Path:** Frontend Mastery ➡️ Robust Backend Systems ➡️ System Design & DevOps.
+- 🎯 **Current Focus:** Deepening my backend knowledge, optimizing application performance, and building production-ready full-stack applications.
+- 💡 **Development Approach:** Writing clean, maintainable, and reusable code while leveraging modern tooling for seamless developer experience.
 - 🤝 **Collaboration:** Always open to full-stack projects that solve real-world problems (strictly code, no motivational `console.log`s here).
 
 ### 🔗 Let's Connect
@@ -22,14 +21,24 @@
 
 ### 💻 Tech Stack
 
-**Frontend Architectures:**<br>
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux)](https://skillicons.dev)
+#### 🌟 Proficient In (أتقنها بكفاءة ومحترف فيها)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/></a>
+  <a href="https://vite.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40"/></a>
+  <a href="https://cloudinary.com" target="_blank"><img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" height="40"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+</p>
 
-**Backend & Databases:**<br>
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
-
-**DevOps, Cloud & Tools:**<br>
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,docker,gcp,firebase,vscode)](https://skillicons.dev)
+#### ⏳ Intermediate & Growing (مستوى متوسط وقيد التطوير المستمر)
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="40"/></a>
+</p>
 
 ---
 
