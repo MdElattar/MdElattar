@@ -29,34 +29,28 @@
 
 ### 💻 Tech Stack
 
-**🌐 Frontend Development**
+**🌐 Frontend Architecture**
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/></a>
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></a>
-<a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite" height="42" alt="Frontend"/></a>
 
-**⚙️ Backend & Databases (Leveling Up 🚀)**
+**⚙️ Backend & Cloud Database**
 <br>
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/></a>
-<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/></a>
-<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="42" alt="Backend"/></a>
+<a href="https://cloudinary.com"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" height="28" alt="Cloudinary" style="vertical-align: top; margin-top: 7px;"/></a>
 
-**🛠️ Tools, Cloud & Version Control**
+**🛠️ Workflow & Tools**
 <br>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
-<a href="https://cloudinary.com"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=Cloudinary&logoColor=white" height="40" alt="Cloudinary"/></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode,git,github" height="42" alt="Tools"/></a>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Advanced Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&ring_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" alt="Top Languages" width="49.5%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" width="100%" />
 </p>
