@@ -50,8 +50,6 @@
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" alt="Node.js" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="Express" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB" style="border-radius: 50%; object-fit: cover;"/></a>
-  <a href="https://mongoosejs.com"><img src="https://unavatar.io/npm/mongoose" height="40" width="40" alt="Mongoose" style="border-radius: 50%; object-fit: cover;"/></a>
-  <a href="https://jwt.io"><img src="https://unavatar.io/npm/jsonwebtoken" height="40" width="40" alt="JWT Auth" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" alt="Firebase" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://cloudinary.com"><img src="https://unavatar.io/github/cloudinary" height="40" width="40" alt="Cloudinary" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
