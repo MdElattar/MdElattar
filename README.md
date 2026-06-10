@@ -34,34 +34,34 @@
 **🌐 Frontend Architecture**
 <br>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="ECMAScript 6+"/></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></a>
-  <a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite"/></a>
-  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS"/></a>
-  <img src="https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge&logo=javascript&logoColor=white" height="40" alt="AJAX"/>
-  <img src="https://img.shields.io/badge/JSON%20API-FF6C37?style=for-the-badge&logo=json&logoColor=white" height="40" alt="JSON API"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" width="40" alt="HTML5" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" width="40" alt="CSS3" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" width="40" alt="ECMAScript 6+" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" width="40" alt="React" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" alt="Vite" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" alt="Tailwind CSS" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/AJAX"><img src="https://unavatar.io/github/ajaxorg" height="40" width="40" alt="AJAX" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://jsonapi.org"><img src="https://unavatar.io/github/json-api" height="40" width="40" alt="JSON API" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
 **⚙️ Backend & Cloud Infrastructure**
 <br>
 <p align="left">
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/></a>
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/></a>
-  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></a>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-00FFCC?style=for-the-badge&logo=json-web-tokens&logoColor=black" height="40" alt="JWT Auth"/>
-  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/></a>
-  <a href="https://cloudinary.com"><img src="https://unavatar.io/github/cloudinary" height="40" width="40" alt="Cloudinary" style="border-radius: 50%;"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" alt="Node.js" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="Express" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://mongoosejs.com"><img src="https://unavatar.io/npm/mongoose" height="40" width="40" alt="Mongoose" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://jwt.io"><img src="https://unavatar.io/npm/jsonwebtoken" height="40" width="40" alt="JWT Auth" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" alt="Firebase" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://cloudinary.com"><img src="https://unavatar.io/github/cloudinary" height="40" width="40" alt="Cloudinary" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
 **🛠️ Engineering Tools & Workflow**
 <br>
 <p align="left">
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" alt="VS Code" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="Git" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
 ### 📊 GitHub Analytics & System Metrics
