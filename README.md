@@ -11,8 +11,8 @@
 </p>
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="your-linkedin-link-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="elattarr.md@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-e-19134a3aa/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="your-portfolio-link-here"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
 </div>
 
