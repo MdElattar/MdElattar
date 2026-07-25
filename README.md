@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm MOHAMED ELAATTAR</h1>
+<h1 align="center">Hi there, I'm MOHAMED ELATTAR</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
