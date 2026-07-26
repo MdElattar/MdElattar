@@ -76,21 +76,21 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
   </a>
 </p>
 
 ### 📊 GitHub Analytics & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
 </p>
