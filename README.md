@@ -72,25 +72,44 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
-### 🏆 GitHub Trophies
+---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
-  </a>
-</p>
+### 📂 Featured Projects & Work
 
-### 📊 GitHub Analytics & System Metrics
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Project Name 1</h3>
+      <br />
+      <p align="center">A brief description of your amazing full-stack project, the problem it solves, and the value it adds.</p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p align="center">
+        <a href="#">🔗 View Repository</a> | <a href="#">🌐 Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Project Name 2</h3>
+      <br />
+      <p align="center">A pixel-perfect responsive frontend application allowing users to interact smoothly and efficiently.</p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+      <p align="center">
+        <a href="#">🔗 View Repository</a> | <a href="#">🌐 Live Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="49.5%" />
-</p>
+### 🌱 Continuous Learning & Current Goals
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
-</p>
+- 🎓 **Academic Excellence:** Balancing intense software development with advanced academic preparation, aiming for top percentiles in standardized testing and language proficiency.
+- 📐 **Core Foundations:** Strengthening my analytical skills with a deep dive into complex mathematics and algorithmic problem-solving.
+- 🚀 **Next Big Step:** Finalizing the deployment of my personal portfolio and preparing for global higher education applications.
+- 🤝 **Community:** Always open to discussing tech, study strategies, or collaborating on open-source projects.
