@@ -71,8 +71,8 @@
 ### 📊 GitHub Analytics & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
 </p>
 
 <p align="center">
