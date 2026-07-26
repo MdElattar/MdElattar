@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdElattar&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   I bridge the gap between elegant user interfaces and robust server-side architectures. As a young and passionate developer, I don't just write code; I engineer solutions. I craft clean, responsive UIs, optimize database queries, and chase bugs until they regret existing.
 </p>
 
@@ -68,11 +72,19 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ### 📊 GitHub Analytics & System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49.5%" />
 </p>
 
 <p align="center">
@@ -80,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&theme=github-dark-neon&area=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
