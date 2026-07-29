@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MdElattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true&date=29072026" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
