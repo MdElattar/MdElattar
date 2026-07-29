@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=MdElattar&theme=tokyonight&hide_border=true&v=999" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Additional Stats" width="100%" />
 </p>
 
 <p align="center">
