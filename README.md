@@ -72,6 +72,8 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
+---
+
 ### 📊 GitHub Analytics & System Metrics
 
 <p align="center">
@@ -80,9 +82,18 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MdElattar&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  </picture>
 </p>
