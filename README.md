@@ -78,3 +78,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Top Languages" width="49.5%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MdElattar&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
