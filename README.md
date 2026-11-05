@@ -72,13 +72,21 @@
 
 ---
 
-### 📊 GitHub Analytics & Metrics
+### 📊 GitHub Analytics & Ecosystem Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" alt="Most Used Languages" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=tokyonight&utcOffset=2" alt="Productive Time" width="49.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Card" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Languages Overview" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Most Committed Languages" width="49.5%" />
 </p>
+
+---
+
+### ⚡ Activity & Contribution Breakdown
+
+<div align="center">
+  <img src="
