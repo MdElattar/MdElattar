@@ -39,19 +39,17 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Ecosystem
 
 **🌐 Frontend Architecture**
 <br>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" width="40" alt="HTML5" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" width="40" alt="CSS3" style="border-radius: 50%; object-fit: cover;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" width="40" alt="ECMAScript 6+" style="border-radius: 50%; object-fit: cover;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" width="40" alt="JavaScript" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" width="40" alt="React" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://vite.dev"><img src="https://skillicons.dev/icons?i=vite" height="40" width="40" alt="Vite" style="border-radius: 50%; object-fit: cover;"/></a>
   <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" alt="Tailwind CSS" style="border-radius: 50%; object-fit: cover;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/AJAX"><img src="https://unavatar.io/github/ajaxorg" height="40" width="40" alt="AJAX" style="border-radius: 50%; object-fit: cover;"/></a>
-  <a href="https://jsonapi.org"><img src="https://unavatar.io/github/json-api" height="40" width="40" alt="JSON API" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
 **⚙️ Backend & Cloud Infrastructure**
@@ -72,9 +70,15 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
-### 📊 GitHub Analytics & System Metrics
+---
+
+### 📊 GitHub Analytics & Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" alt="Most Used Languages" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Card" width="100%" />
 </p>
