@@ -80,13 +80,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Languages Overview" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Most Committed Languages" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Repo" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
 </p>
 
----
-
-### ⚡ Activity & Contribution Breakdown
-
-<div align="center">
-  <img src="
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="Full Analytics Overview" width="100%" />
+</p>
