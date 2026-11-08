@@ -29,8 +29,7 @@
 </div>
 
 <br/>
-
----
+<br/>
 
 <h2 align="center">
   <span style="color: #38bdf8;">🚀 ABOUT ME & MY ARSENAL</span>
@@ -41,46 +40,7 @@
 - ⚡ **Development Style:** DRY code, component-driven architecture, and an obsession with UI/UX details.
 - 🤝 **Collaboration:** Always eager to team up on challenging full-stack projects that solve real-world problems.
 
----
-
-<h2 align="center">
-  <span style="color: #38bdf8;">PLAYER STATUS</span>
-</h2>
-
-<p align="center">
-  <code>⚡ [SYSTEM] — Status window loaded successfully.</code>
-</p>
-
-<p align="center">
-<table width="100%">
-  <tr>
-    <td width="200"><b>👤 NAME</b></td>
-    <td>Mohamed Elattar</td>
-  </tr>
-  <tr>
-    <td><b>💻 CLASS</b></td>
-    <td>Full-Stack Software Engineer</td>
-  </tr>
-  <tr>
-    <td><b>🚀 JOB FOCUS</b></td>
-    <td>Scalable Web Apps & High-Performance UI/UX</td>
-  </tr>
-  <tr>
-    <td><b>📍 LOCATION</b></td>
-    <td>Egypt 🇪🇬</td>
-  </tr>
-  <tr>
-    <td><b>⚔️ MAIN WEAPONS</b></td>
-    <td>HTML, CSS, JavaScript, React, Tailwind, Node.js</td>
-  </tr>
-  <tr>
-    <td><b>🧪 SKILLS UNLOCKING</b></td>
-    <td>TypeScript, Next.js, Firebase, MongoDB</td>
-  </tr>
-</table>
-</p>
-
----
+<br/>
 
 <h2 align="center">
   <span style="color: #38bdf8;">TECH STACK & ECOSYSTEM</span>
@@ -115,20 +75,10 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub" style="border-radius: 50%; object-fit: cover;"/></a>
 </p>
 
----
+<br/>
 
 <h2 align="center">
-  <span style="color: #38bdf8;">MY ROADMAP</span>
-</h2>
-
-<p align="center">
-  <code>HTML + CSS</code> ➔ <code>Tailwind CSS</code> ➔ <code>JavaScript</code> ➔ <code>React & Vite</code> ➔ <code>TypeScript</code> ➔ <code>Next.js</code> ➔ <code>REST APIs</code>
-</p>
-
----
-
-<h2 align="center">
-  <span style="color: #38bdf8;">WHAT I'VE BUILT (FEATURED PROJECTS)</span>
+  <span style="color: #38bdf8;">WHAT I'IV BUILT (FEATURED PROJECTS)</span>
 </h2>
 
 | Project | What it does | Stack |
@@ -143,7 +93,7 @@
   </a>
 </p>
 
----
+<br/>
 
 <h2 align="center">
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
@@ -159,7 +109,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
 </p>
 
----
+<br/>
 
 <h2 align="center">
   <span style="color: #38bdf8;">CONTRIBUTION SNAKE ANIMATION</span>
@@ -172,7 +122,7 @@
   </picture>
 </p>
 
----
+<br/>
 
 <h2 align="center">
   <span style="color: #38bdf8;">PROFESSIONAL HIGHLIGHTS & BADGES</span>
@@ -188,13 +138,13 @@
   <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
 </p>
 
----
+<br/>
 
 <h2 align="center">
-  <span style="color: #38bdf8;">LET'S CONNECT</span>
+  <span style="color: #38bdf8;">LET'S CONNECT & COLLABORATE</span>
 </h2>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-e-19134a3aa/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -204,7 +154,10 @@
   <a href="https://elattar-portfolio-6zgw.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+  <a href="https://github.com/MdElattar">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <br/>
 
