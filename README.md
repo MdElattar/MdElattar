@@ -1,9 +1,5 @@
-<h1 align="center">Hi there, I'm MOHAMED ELATTAR</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Apps;Young,+Driven,+and+Code-Obsessed" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3b82f6&height=220&section=header&text=MOHAMED%20ELATTAR&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Building%20Scalable%20Web%20Apps&descSize=16&descAlignY=62&animation=fadeIn" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -96,10 +92,14 @@
 
 ---
 
-### 🏆 Professional Highlights & Badges
+### 🏆 Professional Highlights & Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Clean_Architecture-Obsessed-252F3F?style=for-the-badge&logo=git&logoColor=white" alt="Architecture" />
   <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
 </p>
