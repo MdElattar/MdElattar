@@ -72,9 +72,9 @@
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **E-Commerce Platform** | Advanced active product filtering, winter collection toggle & admin dashboard. | React, Tailwind, Node.js, MongoDB |
-| **Live Tracking App** | Custom live tracking timeline integrated and deployed via Git. | React, Express, MongoDB |
-| **Personal Portfolio** | High-performance developer portfolio with clean UI/UX and dark theme. | React, Vite, Tailwind CSS |
+| **[Conceptual-E-Commerce-Platform](https://github.com/MdElattar/Conceptual-E-Commerce-Platform)** | Advanced active product filtering, winter collection toggle & admin dashboard. | JavaScript, Node.js, MongoDB |
+| **[elattar-portfolio](https://github.com/MdElattar/elattar-portfolio)** | High-performance developer portfolio with clean UI/UX and dark theme. | TypeScript, React, Vite |
+| **[Khyooot](https://github.com/MdElattar/Khyooot)** | Modern full-stack web application with responsive UI and clean architecture. | JavaScript, Tailwind CSS |
 
 ---
 
