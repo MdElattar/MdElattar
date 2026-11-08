@@ -106,6 +106,10 @@
 ### 🏆 Professional Highlights & Badges
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Clean_Architecture-Obsessed-252F3F?style=for-the-badge&logo=git&logoColor=white" alt="Architecture" />
   <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
