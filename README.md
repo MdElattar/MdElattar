@@ -92,11 +92,18 @@
 
 ---
 
-### 🏆 Professional Highlights & Trophies
+### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  </picture>
 </p>
+
+---
+
+### 🏆 Professional Highlights & Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
