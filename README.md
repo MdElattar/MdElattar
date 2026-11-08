@@ -72,6 +72,16 @@
 
 ---
 
+### 🛠️ What I've Built (Featured Projects)
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **E-Commerce Platform** | Advanced active product filtering, winter collection toggle & admin dashboard. | React, Tailwind, Node.js, MongoDB |
+| **Live Tracking App** | Custom live tracking timeline integrated and deployed via Git. | React, Express, MongoDB |
+| **Personal Portfolio** | High-performance developer portfolio with clean UI/UX and dark theme. | React, Vite, Tailwind CSS |
+
+---
+
 ### 📊 GitHub Analytics & Ecosystem Metrics
 
 <p align="center">
@@ -84,6 +94,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
 </p>
 
+---
+
+### 🏆 Professional Highlights & Badges
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details & Activity" width="100%" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Obsessed-252F3F?style=for-the-badge&logo=git&logoColor=white" alt="Architecture" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
 </p>
