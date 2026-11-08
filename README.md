@@ -33,8 +33,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animou-animated-icons/master/gifs/rocket.gif" width="30" height="30"/> 
-  <span style="color: #38bdf8;">ABOUT ME</span>
+  <span style="color: #38bdf8;">🚀 ABOUT ME & MY ARSENAL</span>
 </h2>
 
 - 🧠 **The Mindset:** Age is just a number; clean architecture is forever. I build things that scale and perform.
@@ -45,7 +44,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animou-animated-icons/master/gifs/computer-disk.gif" width="30" height="30"/> 
   <span style="color: #38bdf8;">PLAYER STATUS</span>
 </h2>
 
@@ -54,9 +52,9 @@
 </p>
 
 <p align="center">
-<table>
+<table width="100%">
   <tr>
-    <td width="150"><b>👤 NAME</b></td>
+    <td width="200"><b>👤 NAME</b></td>
     <td>Mohamed Elattar</td>
   </tr>
   <tr>
@@ -124,13 +122,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML_%2B_CSS-✔-2ea043?style=for-the-badge" alt="HTML+CSS" /> ➔
-  <img src="https://img.shields.io/badge/Tailwind_CSS-✔-2ea043?style=for-the-badge" alt="Tailwind" /> ➔
-  <img src="https://img.shields.io/badge/JavaScript-✔-2ea043?style=for-the-badge" alt="JS" /> ➔
-  <img src="https://img.shields.io/badge/React_%2B_Vite-✔-2ea043?style=for-the-badge" alt="React & Vite" /> ➔
-  <img src="https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge" alt="TS" /> ➔
-  <img src="https://img.shields.io/badge/Next.js-Upcoming-inactive?style=for-the-badge" alt="Next.js" /> ➔
-  <img src="https://img.shields.io/badge/REST_APIs-Mastering-blueviolet?style=for-the-badge" alt="REST APIs" />
+  <code>HTML + CSS</code> ➔ <code>Tailwind CSS</code> ➔ <code>JavaScript</code> ➔ <code>React & Vite</code> ➔ <code>TypeScript</code> ➔ <code>Next.js</code> ➔ <code>REST APIs</code>
 </p>
 
 ---
@@ -176,7 +168,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+    <img src="https://raw.githubusercontent.com/MdElattar/MdElattar/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%">
   </picture>
 </p>
 
