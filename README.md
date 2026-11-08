@@ -2,8 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=220&section=header&text=MOHAMED%20ELATTAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Building%20Scalable%20Web%20Apps&descSize=16&descAlignY=62&stroke=7aa2f7&strokeWidth=1&animation=twinkling" alt="Header Banner" width="100%" />
 </p>
 
+<!-- Ghost Badges & Komarev Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MdElattar&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=MdElattar&label=PROFILE%20VIEWS&color=3B82F6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-6-3B82F6?style=flat" alt="Followers" />
+  <img src="https://img.shields.io/badge/STARS-5-3B82F6?style=flat" alt="Stars" />
+  <img src="https://img.shields.io/badge/STATUS-LEVELING%20UP-3B82F6?style=flat" alt="Status" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="30">
 </p>
 
 <p align="center">
@@ -26,7 +32,10 @@
 
 ---
 
-### 🚀 About Me & My Arsenal
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animou-animated-icons/master/gifs/rocket.gif" width="30" height="30"/> 
+  <span style="color: #38bdf8;">ABOUT ME</span>
+</h2>
 
 - 🧠 **The Mindset:** Age is just a number; clean architecture is forever. I build things that scale and perform.
 - 🎯 **Current Focus:** Mastering backend performance with Node.js/Express while delivering pixel-perfect React frontends.
@@ -35,7 +44,49 @@
 
 ---
 
-### 💻 Tech Stack & Ecosystem
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/animou-animated-icons/master/gifs/computer-disk.gif" width="30" height="30"/> 
+  <span style="color: #38bdf8;">PLAYER STATUS</span>
+</h2>
+
+<p align="center">
+  <code>⚡ [SYSTEM] — Status window loaded successfully.</code>
+</p>
+
+<p align="center">
+<table>
+  <tr>
+    <td width="150"><b>👤 NAME</b></td>
+    <td>Mohamed Elattar</td>
+  </tr>
+  <tr>
+    <td><b>💻 CLASS</b></td>
+    <td>Full-Stack Software Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🚀 JOB FOCUS</b></td>
+    <td>Scalable Web Apps & High-Performance UI/UX</td>
+  </tr>
+  <tr>
+    <td><b>📍 LOCATION</b></td>
+    <td>Egypt 🇪🇬</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ MAIN WEAPONS</b></td>
+    <td>HTML, CSS, JavaScript, React, Tailwind, Node.js</td>
+  </tr>
+  <tr>
+    <td><b>🧪 SKILLS UNLOCKING</b></td>
+    <td>TypeScript, Next.js, Firebase, MongoDB</td>
+  </tr>
+</table>
+</p>
+
+---
+
+<h2 align="center">
+  <span style="color: #38bdf8;">TECH STACK & ECOSYSTEM</span>
+</h2>
 
 **🌐 Frontend Architecture**
 <br>
@@ -68,7 +119,25 @@
 
 ---
 
-### 🛠️ What I've Built (Featured Projects)
+<h2 align="center">
+  <span style="color: #38bdf8;">MY ROADMAP</span>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML_%2B_CSS-✔-2ea043?style=for-the-badge" alt="HTML+CSS" /> ➔
+  <img src="https://img.shields.io/badge/Tailwind_CSS-✔-2ea043?style=for-the-badge" alt="Tailwind" /> ➔
+  <img src="https://img.shields.io/badge/JavaScript-✔-2ea043?style=for-the-badge" alt="JS" /> ➔
+  <img src="https://img.shields.io/badge/React_%2B_Vite-✔-2ea043?style=for-the-badge" alt="React & Vite" /> ➔
+  <img src="https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge" alt="TS" /> ➔
+  <img src="https://img.shields.io/badge/Next.js-Upcoming-inactive?style=for-the-badge" alt="Next.js" /> ➔
+  <img src="https://img.shields.io/badge/REST_APIs-Mastering-blueviolet?style=for-the-badge" alt="REST APIs" />
+</p>
+
+---
+
+<h2 align="center">
+  <span style="color: #38bdf8;">WHAT I'VE BUILT (FEATURED PROJECTS)</span>
+</h2>
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -76,9 +145,17 @@
 | **[elattar-portfolio](https://github.com/MdElattar/elattar-portfolio)** | High-performance developer portfolio with clean UI/UX and dark theme. | TypeScript, React, Vite |
 | **[Khyooot](https://github.com/MdElattar/Khyooot)** | Modern full-stack web application with responsive UI and clean architecture. | JavaScript, Tailwind CSS |
 
+<p align="center">
+  <a href="https://github.com/MdElattar?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_VIEW_ALL_REPOSITORIES-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+</p>
+
 ---
 
-### 📊 GitHub Analytics & Ecosystem Metrics
+<h2 align="center">
+  <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
+</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
@@ -92,7 +169,9 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+<h2 align="center">
+  <span style="color: #38bdf8;">CONTRIBUTION SNAKE ANIMATION</span>
+</h2>
 
 <p align="center">
   <picture>
@@ -103,7 +182,9 @@
 
 ---
 
-### 🏆 Professional Highlights & Badges
+<h2 align="center">
+  <span style="color: #38bdf8;">PROFESSIONAL HIGHLIGHTS & BADGES</span>
+</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details" width="100%" />
@@ -113,4 +194,42 @@
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Clean_Architecture-Obsessed-252F3F?style=for-the-badge&logo=git&logoColor=white" alt="Architecture" />
   <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
+</p>
+
+---
+
+<h2 align="center">
+  <span style="color: #38bdf8;">LET'S CONNECT</span>
+</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-e-19134a3aa/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elattarr.md@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://elattar-portfolio-6zgw.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Ghost.gif" width="150"/>
+</p>
+
+<p align="center">
+  <b>"Keep learning. Keep building. Never stop leveling up."</b><br>
+  ⚡ <b>CODE · CREATE · INNOVATE · LEVEL UP</b> ⚡
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=120&section=footer&stroke=7aa2f7&strokeWidth=1" alt="Footer Banner" width="100%" />
+</p>
+
+<p align="center">
+  👑 <b>THANKS FOR VISITING MY PROFILE</b> 👑<br>
+  💙 <b>HAPPY CODING · ARISE ⚔️</b>
 </p>
