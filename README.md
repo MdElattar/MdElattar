@@ -99,10 +99,14 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- Live GitHub Stats & Top Languages Cards (Tokyonight Theme & Real-time API) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=tokyonight&utcOffset=2" alt="Productive Time" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Repo" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
 </p>
 
 <br/>
@@ -125,9 +129,13 @@
 </h2>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Clean_Architecture-Obsessed-252F3F?style=for-the-badge&logo=git&logoColor=white" alt="Architecture" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logger=react&logoColor=black" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Perfectionist-7AA2F7?style=for-the-badge&logo=react&logoColor=black" alt="UI/UX" />
 </p>
 
 <br/>
