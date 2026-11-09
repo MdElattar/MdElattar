@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=220&section=header&text=MOHAMED%20ELATTAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Building%20Scalable%20Web%20Apps&descSize=16&descAlignY=62&stroke=7aa2f7&strokeWidth=1&animation=twinkling" alt="Header Banner" width="100%" />
 </p>
 
-<!-- Ghost Badges & Komarev Counter -->
+<!-- Ghost Badges & Komarev Counter (Live Followers Badge) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   <img src="https://komarev.com/ghpvc/?username=MdElattar&label=PROFILE%20VIEWS&color=3B82F6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-6-3B82F6?style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/MdElattar?style=flat&label=FOLLOWERS&color=3B82F6" alt="Followers" />
   <img src="https://img.shields.io/badge/STARS-5-3B82F6?style=flat" alt="Stars" />
-  <img src="https://img.shields.io/badge/STATUS-LEVELING%20UP-3B82F6?style=flat" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-FOCUSING-3B82F6?style=flat" alt="Status" />
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="30">
 </p>
 
@@ -78,7 +78,7 @@
 <br/>
 
 <h2 align="center">
-  <span style="color: #38bdf8;">WHAT I'IV BUILT (FEATURED PROJECTS)</span>
+  <span style="color: #38bdf8;">WHAT I'VE BUILT (FEATURED PROJECTS)</span>
 </h2>
 
 | Project | What it does | Stack |
