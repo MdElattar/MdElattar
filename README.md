@@ -99,7 +99,6 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 4-GRID ANALYTICS (CLEAN & WORKING 100%) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
   <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats Extra" width="49.5%" />
@@ -110,13 +109,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=tokyonight&utcOffset=2" alt="Productive Time" width="49.5%" />
 </p>
 
-<!-- ✨ STREAK & DARK NAVY ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&background=0f172a" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br/>
