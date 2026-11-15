@@ -109,6 +109,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
 </p>
 
+<!-- ✨ PRO TRICK ADDED: GitHub Trophies Card (Gamification & Pro Look) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" width="100%" />
+</p>
+
 <br/>
 
 <h2 align="center">
@@ -148,14 +153,14 @@
   <a href="https://www.linkedin.com/in/mohamed-e-19134a3aa/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:elattarr.md@gmail.com">
+  <a href="mailto:elattar@mohamedaelattar.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://elattar-portfolio-6zgw.vercel.app/">
+  <a href="https://mohamedaelattar.com">
     <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/MdElattar">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github.com/MdElattar/MdElattar" alt="GitHub" />
   </a>
 </p>
 
