@@ -99,15 +99,29 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 ALL WORKING CARDS IN DARK NAVY (#0f172a) + LIGHT BLUE (#38bdf8) & WHITE (#ffffff) + ROUNDED CORNERS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" style="border-radius: 16px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&stroke=0f172a&border_radius=16&hide_border=true" alt="GitHub Streak" width="49.5%" style="border-radius: 16px;" />
-</p>
+<!-- PERFECT ALIGNED ANALYTICS GRID WITH ROUNDED CORNERS -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="100%" style="border-radius: 16px;" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&stroke=0f172a&border_radius=16&hide_border=true" alt="GitHub Streak" width="100%" style="border-radius: 16px;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Top Languages by Repo" width="100%" style="border-radius: 16px;" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="100%" style="border-radius: 16px;" />
+    </td>
+  </tr>
+</table>
 
+<!-- ✨ EXTRA PRO HORIZONTAL ACTIVITY & METRICS CARDS -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Top Languages by Repo" width="49.5%" style="border-radius: 16px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="49.5%" style="border-radius: 16px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdElattar&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&background=0f172a&border_radius=16" alt="Activity Graph" width="100%" style="border-radius: 16px;" />
 </p>
 
 <br/>
