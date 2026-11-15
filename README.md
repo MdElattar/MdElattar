@@ -99,19 +99,15 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
+<!-- 🌟 ULTRAPRO REDESIGNED ANALYTICS WITH ROUNDED CORNERS & NO LAG -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&theme=tokyonight&border_radius=16&hide_border=true" alt="GitHub Streak" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top Languages" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=tokyonight&utcOffset=2" alt="Productive Time" width="49.5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Repo" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=tokyonight" alt="Top Languages by Commit" width="49.5%" />
-</p>
-
-<!-- ✨ PRO TRICK ADDED: GitHub Trophies Card (Gamification & Pro Look) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdElattar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" width="100%" />
 </p>
 
 <br/>
