@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Fire.gif" width="30">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-378-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=1e293b" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-90-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=1e293b" alt="Live Followers" />
+  <img src="https://img.shields.io/github/followers/MdElattar?style=for-the-badge&label=FOLLOWERS&color=1e293b&logo=github&logoColor=38bdf8" alt="Live Followers" />
   <img src="https://img.shields.io/badge/STARS-33-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=1e293b" alt="Live Stars" />
   <img src="https://img.shields.io/badge/STATUS-FOCUSING-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8&color=1e293b" alt="Status" />
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="30">
@@ -175,6 +175,13 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="25">
 </p>
+
+<!-- 🌟 PROFESSIONAL CAPSULE WAVE DIVIDER SECTION -->
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=90&section=footer&stroke=7aa2f7&strokeWidth=1" alt="Section Divider Banner" width="100%" />
+</p>
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Ghost.gif" width="150"/>
