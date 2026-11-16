@@ -99,10 +99,10 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 UNIFIED DARK NAVY & NEON BLUE ANALYTICS CARDS -->
+<!-- 🌟 4-GRID ANALYTICS (100% STABLE & WORKING) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats Extra" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Profile Details" width="49.5%" />
 </p>
 
 <p align="center">
@@ -110,6 +110,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="49.5%" />
 </p>
 
+<!-- ✨ WIDE STREAK & ACTIVITY GRAPH CARDS -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdElattar&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&stroke=0f172a&border_radius=16&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
@@ -136,10 +137,6 @@
 <h2 align="center">
   <span style="color: #38bdf8;">PROFESSIONAL HIGHLIGHTS & BADGES</span>
 </h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Profile Details" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
