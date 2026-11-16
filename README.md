@@ -153,7 +153,9 @@
   <span style="color: #38bdf8;">LET'S CONNECT & COLLABORATE</span>
 </h2>
 
+<!-- 🌟 ENHANCED INTERACTIVE CONNECT SECTION WITH DYNAMIC BADGES & ANIMATIONS -->
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   <a href="https://www.linkedin.com/in/mohamed-e-19134a3aa/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -161,11 +163,12 @@
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mohamedaelattar.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   <a href="https://github.com/MdElattar">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
   </a>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="30">
 </p>
 
 <br/>
