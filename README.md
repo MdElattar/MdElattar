@@ -99,9 +99,10 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 FULL WIDTH STATS CARD -->
+<!-- 🌟 UNIFIED SIDE-BY-SIDE ANALYTICS CARDS (49.5% WIDTH EACH) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Most Commit Language" width="49.5%" />
 </p>
 
 <p align="center">
