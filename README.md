@@ -176,8 +176,9 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="25">
 </p>
 
-<!-- 🌟 PROFESSIONAL CAPSULE WAVE DIVIDER SECTION -->
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Ghost.gif" width="150"/>
+</p>
 
 <p align="center">
   <b>"Keep learning. Keep building. Never stop leveling up."</b><br>
