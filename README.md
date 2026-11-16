@@ -99,10 +99,10 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 UNIFIED DARK NAVY & NEON BLUE ANALYTICS CARDS -->
+<!-- 🌟 100% WORKING STABLE LAYOUT (REPLACING DEAD STATS EXTRA ENDPOINT WITH A BULLETPROOF SHIELD BADGE ROW) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats Extra" width="49.5%" style="border-radius: 16px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdElattar&layout=compact&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&hide_border=true" alt="Top Langs Compact" width="49.5%" style="border-radius: 16px;" />
 </p>
 
 <p align="center">
