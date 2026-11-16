@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=220&section=header&text=MOHAMED%20ELATTAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Building%20Scalable%20Web%20Apps&descSize=16&descAlignY=62&stroke=7aa2f7&strokeWidth=1&animation=twinkling" alt="Header Banner" width="100%" />
 </p>
 
-<!-- Live Ghost Badges & Komarev Counter -->
+<!-- Live Unified Badges Counter -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  <img src="https://komarev.com/ghpvc/?username=MdElattar&label=PROFILE%20VIEWS&color=3B82F6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MdElattar?style=flat&label=FOLLOWERS&color=3B82F6" alt="Live Followers" />
-  <img src="https://img.shields.io/github/stars/MdElattar?style=flat&label=STARS&color=3B82F6" alt="Live Stars" />
-  <img src="https://img.shields.io/badge/STATUS-FOCUSING-3B82F6?style=flat" alt="Status" />
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-378-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=0f172a" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-90-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=0f172a" alt="Live Followers" />
+  <img src="https://img.shields.io/badge/STARS-33-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=0f172a" alt="Live Stars" />
+  <img src="https://img.shields.io/badge/STATUS-FOCUSING-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8&color=0f172a" alt="Status" />
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="30">
 </p>
 
@@ -99,7 +99,7 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 ANALYTICS SECTION: STATS + COMMITS BY HOUR (ROW 1) & BOTH LANGUAGES CARDS (ROW 2) -->
+<!-- 🌟 ANALYTICS SECTION -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="49.5%" />
