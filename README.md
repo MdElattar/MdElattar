@@ -176,12 +176,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="25">
 </p>
 
-<!-- 🌟 PROFESSIONAL CAPSULE WAVE DIVIDER SECTION -->
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1e2e,100:3b82f6&height=90&section=footer&stroke=7aa2f7&strokeWidth=1" alt="Section Divider Banner" width="100%" />
-</p>
-<br/>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Ghost.gif" width="150"/>
