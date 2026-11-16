@@ -99,10 +99,10 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 UNIFIED DARK NAVY & NEON BLUE ANALYTICS CARDS -->
+<!-- 🌟 STABLE 100% WORKING ANALYTICS CARDS -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MdElattar&show_icons=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats Extra" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Profile Details" width="49.5%" />
 </p>
 
 <p align="center">
@@ -136,10 +136,6 @@
 <h2 align="center">
   <span style="color: #38bdf8;">PROFESSIONAL HIGHLIGHTS & BADGES</span>
 </h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Profile Details" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack_Engineer-Expert-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
