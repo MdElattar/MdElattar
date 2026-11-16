@@ -153,7 +153,7 @@
   <span style="color: #38bdf8;">LET'S CONNECT & COLLABORATE</span>
 </h2>
 
-<!-- 🌟 PROFESSIONAL SEPARATED CONNECT SECTION WITH STYLIZED BADGES -->
+<!-- 🌟 PROFESSIONAL SEPARATED CONNECT SECTION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
   &nbsp;&nbsp;
@@ -176,6 +176,11 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Water.gif" width="25">
 </p>
 
+<!-- 🌟 STYLIZED NEON GLOW DIVIDER / SEPARATION SECTION -->
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=4&section=header" alt="Divider" width="85%" />
+</p>
 <br/>
 
 <p align="center">
