@@ -99,15 +99,15 @@
   <span style="color: #38bdf8;">GITHUB ANALYTICS & ECOSYSTEM METRICS</span>
 </h2>
 
-<!-- 🌟 UNIFIED SIDE-BY-SIDE ANALYTICS CARDS (49.5% WIDTH EACH) -->
+<!-- 🌟 ANALYTICS SECTION: STATS + COMMITS BY HOUR (ROW 1) & BOTH LANGUAGES CARDS (ROW 2) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Most Commit Language" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="49.5%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Top Languages by Repo" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&utcOffset=2&hide_border=true" alt="Productive Time" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdElattar&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" alt="Most Commit Language" width="49.5%" />
 </p>
 
 <p align="center">
