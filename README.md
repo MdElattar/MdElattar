@@ -5,7 +5,7 @@
 <!-- Live High-Contrast Badges Counter -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Fire.gif" width="30">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-378-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=1e293b" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MdElattar&label=PROFILE%20VIEWS&base=378&color=1e293b&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MdElattar?style=for-the-badge&label=FOLLOWERS&color=1e293b&logo=github&logoColor=38bdf8" alt="Live Followers" />
   <img src="https://img.shields.io/badge/STARS-33-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8&color=1e293b" alt="Live Stars" />
   <img src="https://img.shields.io/badge/STATUS-FOCUSING-0f172a?style=for-the-badge&logo=codeforces&logoColor=38bdf8&color=1e293b" alt="Status" />
