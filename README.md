@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I bridge the gap between elegant user interfaces and robust server-side architectures. As a young and passionate developer, I don't just write code; I engineer solutions. I craft clean, responsive UIs, optimize database queries, and chase bugs until they regret existingggggggggg.
+  I bridge the gap between elegant user interfaces and robust server-side architectures. As a young and passionate developer, I don't just write code; I engineer solutions. I craft clean, responsive UIs, optimize database queries, and chase bugs until they regret existing.
 </p>
 
 <div align="center">
